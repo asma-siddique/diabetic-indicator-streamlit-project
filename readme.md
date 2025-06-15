@@ -105,10 +105,9 @@ streamlit run app.py
 
 | File/Folder         | Description                              |
 |---------------------|------------------------------------------|
-| `app.py`            | Main Streamlit application               |
+| `project.py`            | Main Streamlit application               |
 | `diabetes_dataset.csv` | Raw BRFSS 2015 dataset              |
 | `requirements.txt`  | List of Python dependencies              |
-| `assets/`           | Screenshots / visualizations             |
 | `notebooks/`        | EDA and experimentation Jupyter files   |
 
 ---
@@ -151,17 +150,17 @@ streamlit run app.py
 
 ## 🔗 Resources
 
-- 📓 [Kaggle Notebook: Diabetes Analysis](#) *(Replace with real link)*  
-- 📘 [BRFSS Methodology Paper](#) *(Replace with real link)*  
+- 📓 [Kaggle Notebook: Diabetes Analysis](#) *https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset*  
+ 
 
 ---
 
 ## 👩‍💻 Author
 
-**Name:** *[Your Name]*  
-**Institution:** *[Your University or Organization]*  
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Name:** *Asma Siddique*  
+**Institution:** *Punjab University*  
+**GitHub:** [github.com/yourusername](https://github.com/asma-siddique/)  
+**LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/asma-siddique-4389a22a6)
 
 ---
 
@@ -171,21 +170,5 @@ MIT License – see `LICENSE` file for details.
 
 ---
 
-### 🆕 Compared to Heart Disease README
 
-✅ Better structure & readability  
-✅ Visual feature documentation  
-✅ Actual performance metrics  
-✅ Placeholder visuals for easy updates  
-✅ Domain insights integrated  
-✅ Consistent branding with badges
 
----
-
-## ✅ To Customize
-
-- [ ] Replace placeholder links and images  
-- [ ] Add screenshots in the `assets/` folder  
-- [ ] Update model performance metrics  
-- [ ] Fill in real author information  
-- [ ] Expand findings with your insights
