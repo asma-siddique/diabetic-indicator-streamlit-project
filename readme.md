@@ -150,7 +150,7 @@ streamlit run app.py
 
 ## 🔗 Resources
 
-- 📓 [Kaggle Notebook: Diabetes Analysis](#) */kaggle/input/diabetes-risk-prediction*  
+- 📓 [Kaggle Notebook: Diabetes Analysis](#)[(https://www.kaggle.com/code/asmasiddique/notebook9fb24bb61e/edit)](https://www.kaggle.com/datasets/asmasiddique/diabetes-risk-prediction)  
  
 
 ---
