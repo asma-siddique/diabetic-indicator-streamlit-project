@@ -40,7 +40,7 @@ st.markdown("""
 @st.cache_data
 def load_data():
     try:
-        df = pd.read_csv('diabetes_012_health_indicators_BRFSS2015.csv')
+        df = pd.read_csv('diabetes_dataset.csv')
         st.success("Dataset loaded successfully!")
         return df
     except Exception as e:
