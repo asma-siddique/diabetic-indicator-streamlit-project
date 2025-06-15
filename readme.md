@@ -159,8 +159,8 @@ streamlit run app.py
 
 **Name:** *Asma Siddique*  
 **Institution:** *Punjab University*  
-**GitHub:** [github.com/yourusername](https://github.com/asma-siddique/)  
-**LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/asma-siddique-4389a22a6)
+**GitHub:** [github.com/asma-siddique](https://github.com/asma-siddique/)  
+**LinkedIn:** [asma-siddique-4389a22a6](www.linkedin.com/in/asma-siddique-4389a22a6)
 
 ---
 
